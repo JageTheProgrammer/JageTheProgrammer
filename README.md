@@ -70,11 +70,38 @@ I prioritize **technical correctness** and **clarity** over unnecessary abstract
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JageTheProgrammer&show_icons=true&theme=blueberry&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api
+    ?username=JageTheProgrammer
+    &count_private=true
+    &include_all_commits=true
+    &show_icons=true
+    &theme=blueberry
+    &hide_border=true
+    &cache_seconds=1800"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JageTheProgrammer&layout=compact&theme=blueberry&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/
+    ?username=JageTheProgrammer
+    &layout=compact
+    &theme=blueberry
+    &hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/JageTheProgrammer
+    ?template=classic
+    &activity=1
+    &isocalendar=1
+    &languages=1
+    &followup=1
+    &theme=blue"
+  />
 </p>
 
 ---
