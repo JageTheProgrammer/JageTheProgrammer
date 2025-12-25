@@ -1,43 +1,42 @@
-
-
 ---
 
-## 👋 Overview
+# 🇫🇮 Suomeksi
 
-I am **Jaakko Maatiala**, a technically driven **web developer** focused on building modern, scalable, and maintainable web applications.  
-My work emphasizes **clean architecture**, **performance**, and **production-grade quality** rather than quick prototypes.
+## 👋 Moi!
 
-I enjoy working close to the metal of web technologies while maintaining a strong focus on user experience and long-term maintainability.
+Oon **Jaakko Maatiala**, web-kehittäjä joka tykkää tehdä asiat kunnolla eikä vaan nopeasti. Rakennan moderneja ja toimivia web-sovelluksia, joissa tärkeintä on se, että ne on **selkeitä, nopeita ja helppoja jatkokehittää**.
 
-🌐 **Brand:** https://maatiala.online  
+Mua kiinnostaa erityisesti se, miten kokonaisuudet toimii kulissien takana – hyvä rakenne, fiksu datavirta ja se, ettei koodia tarvitse hävetä vuoden päästä.
+
+🌐 **Sivut:** https://maatiala.online  
 💻 **GitHub:** https://github.com/JageTheProgrammer  
 
 ---
 
-## 🎯 Development Philosophy
+## 🎯 Miten mä teen juttuja
 
-- Architecture before implementation  
-- Readable, predictable, and scalable codebases  
-- Performance-aware UI and backend design  
-- Real-time capable systems with clear data flow  
-- SEO-friendly and production-ready solutions  
+- Suunnittelen ensin, koodaan vasta sitten  
+- Pidän koodin luettavana ja loogisena  
+- Mietin suorituskykyä heti alusta asti  
+- Teen mielelläni reaaliaikaisia juttuja  
+- Rakennan ratkaisuja, jotka kestää käyttöä ja kasvua  
 
-I prioritize **technical correctness** and **clarity** over unnecessary abstraction.
-
----
-
-## 🧠 Areas of Expertise
-
-- Frontend engineering with React & Next.js  
-- Backend logic and API design using Node.js  
-- Real-time communication (Socket.IO, event-driven systems)  
-- State management and component architecture  
-- Database modeling with MongoDB  
-- UI performance optimization and SEO  
+Lyhyesti: mieluummin vähän vähemmän, mutta paremmin.
 
 ---
 
-## 🛠️ Technology Stack
+## 🧠 Mitä mä osaan
+
+- Frontendit Reactilla ja Next.js:llä  
+- Backend-hommat Node.js:llä  
+- Reaaliaikaiset systeemit (Socket.IO ym.)  
+- Komponenttirakenteet ja tilanhallinta  
+- MongoDB ja datamallit  
+- UI:n nopeus, käytettävyys ja SEO  
+
+---
+
+## 🛠️ Työkalut & teknologiat
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,git,github,linux&theme=light" />
@@ -45,84 +44,66 @@ I prioritize **technical correctness** and **clarity** over unnecessary abstract
 
 ---
 
-## 🚀 Featured Projects
+## 🔭 Mitä teen nyt
+
+- Rakennan sosiaalisia ja chat-tyylisiä sovelluksia  
+- Työstän reaaliaikaista viestintää ja feedejä  
+- Hion frontend-arkkitehtuureja  
+- Parannan suorituskykyä ja käyttökokemusta  
+
+---
+
+# 🇬🇧 In English
+
+## 👋 Overview
+
+I’m **Jaakko Maatiala**, a web developer who prefers doing things properly rather than quickly. I build modern, maintainable web applications with a strong focus on structure, performance, and long-term quality.
+
+I’m especially interested in how systems work under the hood — clean architecture, sensible data flow, and code that still makes sense a year from now.
+
+🌐 **Website:** https://maatiala.online  
+💻 **GitHub:** https://github.com/JageTheProgrammer  
+
+---
+
+## 🎯 How I work
+
+- Plan first, code second  
+- Keep things clean and readable  
+- Think about performance early  
+- Enjoy real-time features  
+- Build systems meant to last  
+
+---
+
+## 🧠 What I work with
+
+- React & Next.js on the frontend  
+- Node.js on the backend  
+- Real-time systems (Socket.IO)  
+- Component architecture and state  
+- MongoDB and data modeling  
+- UI performance and SEO  
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <a href="https://github.com/JageTheProgrammer/parturi-kampaamo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JageTheProgrammer&repo=maatiala.online&theme=blueberry&hide_border=true" />
-  </a>
-  <a href="https://github.com/JageTheProgrammer/Discord">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JageTheProgrammer&repo=Jaim&theme=blueberry&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/JageTheProgrammer/Visual-Proxy2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JageTheProgrammer&repo=chat-app&theme=blueberry&hide_border=true" />
-  </a>
-  <a href="https://github.com/JageTheProgrammer/todo-app-React-Native">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JageTheProgrammer&repo=social-media-app&theme=blueberry&hide_border=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,git,github,linux&theme=light" />
 </p>
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 🔭 Currently
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api
-    ?username=JageTheProgrammer
-    &count_private=true
-    &include_all_commits=true
-    &show_icons=true
-    &theme=blueberry
-    &hide_border=true
-    &cache_seconds=1800"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/
-    ?username=JageTheProgrammer
-    &layout=compact
-    &theme=blueberry
-    &hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://metrics.lecoq.io/JageTheProgrammer
-    ?template=classic
-    &activity=1
-    &isocalendar=1
-    &languages=1
-    &followup=1
-    &theme=blue"
-  />
-</p>
-
----
-
-## 🔭 Current Direction
-
-- Building full-featured social and chat platforms  
-- Implementing real-time messaging and live feeds  
+- Building social and chat-based applications  
+- Working with real-time messaging and feeds  
 - Designing scalable frontend architectures  
-- Continuously refining performance and UX  
-
----
-
-## 📫 Contact & Presence
-
-- 🌍 https://maatiala.online  
-- 💼 GitHub: https://github.com/JageTheProgrammer  
+- Improving performance and UX  
 
 ---
 
 <p align="center">
-  <strong>Technical · Structured · Scalable</strong><br/>
-  <sub>Built with long-term maintainability in mind</sub>
+  <strong>Clean code · Clear structure · Built to last</strong>
 </p>
