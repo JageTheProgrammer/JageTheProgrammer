@@ -48,19 +48,19 @@ I prioritize **technical correctness** and **clarity** over unnecessary abstract
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/JageTheProgrammer">
+  <a href="https://github.com/JageTheProgrammer/parturi-kampaamo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JageTheProgrammer&repo=maatiala.online&theme=blueberry&hide_border=true" />
   </a>
-  <a href="https://github.com/JageTheProgrammer">
+  <a href="https://github.com/JageTheProgrammer/Discord">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JageTheProgrammer&repo=Jaim&theme=blueberry&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/JageTheProgrammer">
+  <a href="https://github.com/JageTheProgrammer/Visual-Proxy2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JageTheProgrammer&repo=chat-app&theme=blueberry&hide_border=true" />
   </a>
-  <a href="https://github.com/JageTheProgrammer">
+  <a href="https://github.com/JageTheProgrammer/todo-app-React-Native">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JageTheProgrammer&repo=social-media-app&theme=blueberry&hide_border=true" />
   </a>
 </p>
