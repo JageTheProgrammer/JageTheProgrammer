@@ -4,7 +4,6 @@
 <!--  Brand: maatiala.online | Technical Blue Theme        -->
 <!-- ===================================================== -->
 
-<!-- Animated SVG Banner -->
 <p align="center">
   <svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
     <defs>
