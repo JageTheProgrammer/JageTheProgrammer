@@ -1,6 +1,6 @@
 # 👋 Jaakko Maatiala
 
-Full-Stack Web & Software Developer\
+Full-Stack Web & Software Developer
 Structured systems · Scalable architecture · Performance-first mindset
 
 ------------------------------------------------------------------------
@@ -15,7 +15,7 @@ multiple full-stack systems. My approach is structured and
 architecture-driven --- I prioritize clarity, maintainability, and
 long-term scalability over quick solutions.
 
-I don't just write code.\
+I don't just write code.
 I design systems.
 
 ------------------------------------------------------------------------
@@ -26,10 +26,10 @@ I design systems.
 
 Tutors Finland Oy (2025--2026, 6 months)
 
--   Website development & structural planning\
--   SEO optimization & marketing alignment\
--   Branding & logo design\
--   Team coordination & project leadership\
+-   Website development & structural planning
+-   SEO optimization & marketing alignment
+-   Branding & logo design
+-   Team coordination & project leadership
 -   Collaboration within development team
 
 ------------------------------------------------------------------------
@@ -38,80 +38,80 @@ Tutors Finland Oy (2025--2026, 6 months)
 
 ### Programming Languages
 
--   JavaScript\
--   TypeScript\
--   PHP\
--   C++\
--   C#\
+-   JavaScript
+-   TypeScript
+-   PHP
+-   C++
+-   C#
 -   C
 
 ### Frontend
 
--   HTML5\
--   CSS3 / SCSS\
--   React\
--   Angular\
--   Next.js\
--   Tailwind CSS\
--   Component-based architecture\
--   UI performance optimization\
+-   HTML5
+-   CSS3 / SCSS
+-   React
+-   Angular
+-   Next.js
+-   Tailwind CSS
+-   Component-based architecture
+-   UI performance optimization
 -   SEO-aware implementation
 
 ### Backend
 
--   Node.js\
--   Express.js\
--   Next.js (Full-Stack usage)\
--   PHP (Composer ecosystem)\
--   REST API design\
--   Authentication systems\
+-   Node.js
+-   Express.js
+-   Next.js (Full-Stack usage)
+-   PHP (Composer ecosystem)
+-   REST API design
+-   Authentication systems
 -   Real-time systems
 
 ### Databases
 
--   MongoDB\
--   MySQL\
--   PostgreSQL\
+-   MongoDB
+-   MySQL
+-   PostgreSQL
 -   Supabase
 
 ### Tools & Environment
 
--   Git & GitHub\
--   Linux (Arch)\
--   Windows\
--   Deployment workflows\
--   SEO optimization\
+-   Git & GitHub
+-   Linux (Arch)
+-   Windows
+-   Deployment workflows
+-   SEO optimization
 -   Logical system structuring
 
 ------------------------------------------------------------------------
 
 ## 🏗 Development Philosophy
 
-1.  Architecture before implementation\
-2.  Data modeling before API endpoints\
-3.  Clear separation of concerns\
-4.  Performance considered from day one\
+1.  Architecture before implementation
+2.  Data modeling before API endpoints
+3.  Clear separation of concerns
+4.  Performance considered from day one
 5.  Maintainability over shortcuts
 
 ------------------------------------------------------------------------
 
 ## 🎓 Education
 
-Keuda -- Vocational Qualification in Software Development\
+Keuda -- Vocational Qualification in Software Development
 Kerava (2025--Present)
 
 ------------------------------------------------------------------------
 
 ## 🌍 Languages
 
--   Finnish --- Native\
+-   Finnish --- Native
 -   English --- Fluent
 
 ------------------------------------------------------------------------
 
 ## 📫 Contact
 
-Email: maatialaj6@gmail.com\
+Email: maatialaj6@gmail.com
 
 ------------------------------------------------------------------------
 
