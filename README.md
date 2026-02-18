@@ -1,114 +1,118 @@
 # 👋 Jaakko Maatiala
 
-Web developer focused on building **clean, fast and scalable** web applications.
+Full-Stack Web & Software Developer\
+Structured systems · Scalable architecture · Performance-first mindset
 
-I prefer doing things properly rather than quickly — solid architecture, clear code, and systems that still make sense a year later.
+------------------------------------------------------------------------
 
-🌐 Website: https://maatiala.online  
-💻 GitHub: https://github.com/JageTheProgrammer  
+## 🚀 About Me
 
----
+I'm a Finnish software developer currently completing vocational studies
+in software development at Keuda (Kerava).
 
-# 🇫🇮 Suomeksi
+I have been programming since the age of 12 and have independently built
+multiple full-stack systems. My approach is structured and
+architecture-driven --- I prioritize clarity, maintainability, and
+long-term scalability over quick solutions.
 
-## 👋 Moi!
+I don't just write code.\
+I design systems.
 
-Oon **Jaakko Maatiala**, web-kehittäjä joka tykkää tehdä asiat kunnolla eikä vaan nopeasti. Rakennan moderneja web-sovelluksia, joissa tärkeintä on selkeys, nopeus ja helppo jatkokehitys.
+------------------------------------------------------------------------
 
-Mua kiinnostaa erityisesti se, miten järjestelmät toimii kulissien takana — hyvä rakenne, fiksu datavirta ja koodi, jota ei tarvitse hävetä vuoden päästä.
+## 💼 Professional Experience
 
----
+### Web Developer & Project Leader
 
-## 🎯 Miten mä teen juttuja
+Tutors Finland Oy (2025--2026, 6 months)
 
-- Suunnittelen ensin, koodaan vasta sitten  
-- Pidän koodin loogisena ja luettavana  
-- Mietin suorituskykyä heti alusta asti  
-- Rakennan reaaliaikaisia toimintoja  
-- Teen ratkaisuja, jotka kestää käyttöä ja kasvua  
+-   Website development & structural planning\
+-   SEO optimization & marketing alignment\
+-   Branding & logo design\
+-   Team coordination & project leadership\
+-   Collaboration within development team
 
-👉 Vähemmän, mutta paremmin.
+------------------------------------------------------------------------
 
----
+## 🧠 Technical Stack
 
-## 🧠 Mitä mä osaan
+### Programming Languages
 
-- React & Next.js frontendit  
-- Node.js backendit  
-- Reaaliaikaiset järjestelmät (Socket.IO)  
-- Komponenttirakenteet & tilanhallinta  
-- MongoDB & datamallit  
-- UI-suorituskyky & SEO  
+-   JavaScript\
+-   TypeScript\
+-   PHP\
+-   C++\
+-   C#\
+-   C
 
----
+### Frontend
 
-## 🔭 Projektit
+-   HTML5\
+-   CSS3 / SCSS\
+-   React\
+-   Angular\
+-   Next.js\
+-   Tailwind CSS\
+-   Component-based architecture\
+-   UI performance optimization\
+-   SEO-aware implementation
 
-🌐 https://www.maatiala.dev/  
-☁️ https://maatix.cloud/  
-🧠 https://multipurpose-ai-theta.vercel.app/  
-🛒 https://shop.maatiala.dev/  
-🤖 https://ai.maatiala.dev/  
-💬 https://shoboffaus.maatiala.dev/  
-👤 https://jenni.maatiala.dev/  
-🌍 https://maatix.org/  
-🏠 https://maatiala.online/
+### Backend
 
----
+-   Node.js\
+-   Express.js\
+-   Next.js (Full-Stack usage)\
+-   PHP (Composer ecosystem)\
+-   REST API design\
+-   Authentication systems\
+-   Real-time systems
 
-# 🇬🇧 In English
+### Databases
 
-## 👋 Overview
+-   MongoDB\
+-   MySQL\
+-   PostgreSQL\
+-   Supabase
 
-I’m **Jaakko Maatiala**, a web developer who focuses on building maintainable, high-performance applications with clean architecture and scalable structure.
+### Tools & Environment
 
-I care about how systems work under the hood — sensible data flow, solid structure, and code that remains readable long-term.
+-   Git & GitHub\
+-   Linux (Arch)\
+-   Windows\
+-   Deployment workflows\
+-   SEO optimization\
+-   Logical system structuring
 
----
+------------------------------------------------------------------------
 
-## 🎯 How I work
+## 🏗 Development Philosophy
 
-- Plan first, code second  
-- Keep code clean and readable  
-- Consider performance from the start  
-- Enjoy building real-time features  
-- Build systems meant to last  
+1.  Architecture before implementation\
+2.  Data modeling before API endpoints\
+3.  Clear separation of concerns\
+4.  Performance considered from day one\
+5.  Maintainability over shortcuts
 
----
+------------------------------------------------------------------------
 
-## 🧠 Tech Focus
+## 🎓 Education
 
-- React & Next.js  
-- Node.js  
-- Real-time systems (Socket.IO)  
-- Component architecture & state management  
-- MongoDB & data modeling  
-- UI performance & SEO  
+Keuda -- Vocational Qualification in Software Development\
+Kerava (2025--Present)
 
----
+------------------------------------------------------------------------
 
-## 🚀 Projects
+## 🌍 Languages
 
-🌐 https://www.maatiala.dev/  
-☁️ https://maatix.cloud/  
-🧠 https://multipurpose-ai-theta.vercel.app/  
-🛒 https://shop.maatiala.dev/  
-🤖 https://ai.maatiala.dev/  
-💬 https://shoboffaus.maatiala.dev/  
-👤 https://jenni.maatiala.dev/  
-🌍 https://maatix.org/  
-🏠 https://maatiala.online/
+-   Finnish --- Native\
+-   English --- Fluent
 
----
+------------------------------------------------------------------------
 
-## 🛠️ Tools & Technologies
+## 📫 Contact
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,git,github,linux&theme=light" />
-</p>
+Email: maatialaj6@gmail.com\
 
----
+------------------------------------------------------------------------
 
-<p align="center">
-  <strong>Clean code · Clear structure · Built to last</strong>
-</p>
+Structured · Scalable · Built for Growth
