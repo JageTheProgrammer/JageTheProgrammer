@@ -1,118 +1,153 @@
-# 👋 Jaakko Maatiala
+Jaakko Maatiala
 
-Full-Stack Web & Software Developer
-Structured systems · Scalable architecture · Performance-first mindset
+Full-Stack Software Developer
 
-------------------------------------------------------------------------
+TypeScript • Next.js • AI Integrations • Scalable Web Applications
 
-## 🚀 About Me
+⸻
 
-I'm a Finnish software developer currently completing vocational studies
-in software development at Keuda (Kerava).
+About Me
 
-I have been programming since the age of 12 and have independently built
-multiple full-stack systems. My approach is structured and
-architecture-driven --- I prioritize clarity, maintainability, and
-long-term scalability over quick solutions.
+I’m a Finnish Full-Stack Software Developer currently completing a Vocational Qualification in Software Development at Keuda.
 
-I don't just write code.
-I design systems.
+I’ve been building software since the age of 12 and have spent the last several years developing full-stack applications, web platforms, automation tools, and AI-powered solutions. My primary focus is creating scalable, maintainable systems that solve real business problems.
 
-------------------------------------------------------------------------
+I enjoy working across the entire development stack—from user interfaces and application architecture to databases, APIs, deployment, and AI integrations.
 
-## 💼 Professional Experience
+My development philosophy is simple:
 
-### Web Developer & Project Leader
+Build solutions that remain maintainable and scalable long after the first release.
 
-Tutors Finland Oy (2025--2026, 6 months)
+⸻
 
--   Website development & structural planning
--   SEO optimization & marketing alignment
--   Branding & logo design
--   Team coordination & project leadership
--   Collaboration within development team
+Professional Experience
 
-------------------------------------------------------------------------
+Web Developer & Project Leader
 
-## 🧠 Technical Stack
+Tutors Finland Oy | 2025–2026
 
-### Programming Languages
+Responsibilities included:
 
--   JavaScript
--   TypeScript
--   PHP
--   C++
--   C#
--   C
+* Leading website development projects
+* Designing and implementing scalable web solutions
+* SEO optimization and technical performance improvements
+* Branding and visual identity development
+* Project planning and team coordination
+* Collaboration with developers and stakeholders
 
-### Frontend
+⸻
 
--   HTML5
--   CSS3 / SCSS
--   React
--   Angular
--   Next.js
--   Tailwind CSS
--   Component-based architecture
--   UI performance optimization
--   SEO-aware implementation
+Technical Skills
 
-### Backend
+Languages
 
--   Node.js
--   Express.js
--   Next.js (Full-Stack usage)
--   PHP (Composer ecosystem)
--   REST API design
--   Authentication systems
--   Real-time systems
+* TypeScript
+* JavaScript
+* Python
+* PHP
+* C#
+* C++
+* C
 
-### Databases
+Frontend Development
 
--   MongoDB
--   MySQL
--   PostgreSQL
--   Supabase
+* Next.js
+* React
+* Angular
+* HTML5
+* CSS3
+* SCSS
+* Tailwind CSS
+* Responsive Design
+* SEO Optimization
+* Performance Optimization
 
-### Tools & Environment
+Backend Development
 
--   Git & GitHub
--   Linux (Arch)
--   Windows
--   Deployment workflows
--   SEO optimization
--   Logical system structuring
+* Node.js
+* Express.js
+* Next.js Server Components
+* REST APIs
+* Authentication & Authorization
+* Real-Time Applications
+* Server-Side Rendering (SSR)
 
-------------------------------------------------------------------------
+Databases
 
-## 🏗 Development Philosophy
+* PostgreSQL
+* MySQL
+* MongoDB
+* Supabase
 
-1.  Architecture before implementation
-2.  Data modeling before API endpoints
-3.  Clear separation of concerns
-4.  Performance considered from day one
-5.  Maintainability over shortcuts
+AI & Automation
 
-------------------------------------------------------------------------
+* AI Model Integration
+* LLM API Development
+* AI-Powered Web Applications
+* Workflow Automation
+* AI Fine-Tuning Fundamentals
 
-## 🎓 Education
+Tools & Platforms
 
-Keuda -- Vocational Qualification in Software Development
-Kerava (2025--Present)
+* Git
+* GitHub
+* Linux (Arch Linux)
+* Windows
+* Docker
+* CI/CD Concepts
+* Cloud Deployment
 
-------------------------------------------------------------------------
+⸻
 
-## 🌍 Languages
+Selected Strengths
 
--   Finnish --- Native
--   English --- Fluent
+* Full-stack application development
+* System architecture planning
+* Database design
+* API development
+* Performance optimization
+* Technical SEO
+* AI integration
+* Problem solving
+* Project leadership
 
-------------------------------------------------------------------------
+⸻
 
-## 📫 Contact
+Development Principles
+
+1. Architecture before implementation
+2. Clear and maintainable code
+3. Scalability from day one
+4. Performance-focused development
+5. Security-conscious design
+6. Long-term maintainability over quick fixes
+
+⸻
+
+Education
+
+Keuda
+
+Vocational Qualification in Software Development
+2025 – Present
+
+⸻
+
+Languages
+
+* Finnish — Native
+* English — Professional Working Proficiency
+
+⸻
+
+Contact
 
 Email: maatialaj6@gmail.com
 
-------------------------------------------------------------------------
+GitHub: https://github.com/jagethetheprogramer
 
-Structured · Scalable · Built for Growth
+Portfolio: https://maatiala.dev
+
+⸻
+
+Building scalable software, modern web applications, and AI-powered solutions.
