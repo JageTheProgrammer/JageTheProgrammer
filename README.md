@@ -11,7 +11,7 @@ TypeScript • Next.js • AI Integrations • Scalable Web Applications
 
 ⸻
 
-About Me
+<h2>About Me</h2>
 
 I’m a Finnish Full-Stack Software Developer currently completing a Vocational Qualification in Software Development at Keuda.
 
@@ -25,7 +25,7 @@ Build solutions that remain maintainable and scalable long after the first relea
 
 ⸻
 
-Professional Experience
+<h2>Professional Experience</h2>
 
 Web Developer & Project Leader
 
@@ -42,7 +42,7 @@ Responsibilities included:
 
 ⸻
 
-Technical Skills
+<h2>Technical Skills</h2>
 
 Languages
 
@@ -129,7 +129,7 @@ Development Principles
 
 ⸻
 
-Education
+<h2>Education</h2>
 
 Keuda
 
@@ -138,7 +138,7 @@ Vocational Qualification in Software Development
 
 ⸻
 
-Languages
+<h2>Languages</h2>
 
 * Finnish — Native
 * English — Professional Working Proficiency
