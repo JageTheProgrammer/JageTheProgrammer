@@ -156,3 +156,14 @@ Portfolio: https://maatiala.dev
 ⸻
 
 Building scalable software, modern web applications, and AI-powered solutions.
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagethetheprogramer&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagethetheprogramer&theme=tokyonight" />
+</p>
