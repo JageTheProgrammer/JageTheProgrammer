@@ -161,9 +161,9 @@ Building scalable software, modern web applications, and AI-powered solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagethetheprogramer&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagetheprogramer&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagethetheprogramer&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagetheprogramer&theme=tokyonight" />
 </p>
