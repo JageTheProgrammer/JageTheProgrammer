@@ -145,7 +145,7 @@ Vocational Qualification in Software Development
 
 ⸻
 
-Contact
+<h2>Contact</h2>
 
 Email: maatialaj6@gmail.com
 
